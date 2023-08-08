@@ -1,6 +1,6 @@
 # Sushi Restaurant
 
-![Recorrido del restaurante sushi](https://res.cloudinary.com/dq2uoc6to/image/upload/v1691466724/sushi-restaurant-gif_wowdlg.gif)
+![sushi-restaurant-gif](https://github.com/JIB2017/sushi-restaurant-website/assets/31837873/7318997e-7c67-4998-b556-4f5da2c4ec9d)
 
 Una bella landing page para los amantes de la comida sushi. Perfecta para mostrar las mas ricas comidas con una moderna UI, un pequeño toque de glassmorphism y un diseño responsive.
 
